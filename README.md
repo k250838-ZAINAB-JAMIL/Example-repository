@@ -22,7 +22,7 @@ _this is project_\
 int main() {
     printf("Hello, World!\n");
     return 0;
-}
+}```
 _ [ ] task1
 _ [X] task2
 _ [ ] task3
