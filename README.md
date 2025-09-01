@@ -1,4 +1,4 @@
-H# project
+# project
 ## project 2
 ### project 3
 
@@ -15,4 +15,12 @@ _this is project_\
 2. saira
 3. maryam
 4. H<sub>2</sub>0\
+   ```C
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
 
